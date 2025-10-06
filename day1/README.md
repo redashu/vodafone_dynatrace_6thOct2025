@@ -65,3 +65,10 @@ apache  dumpproc  extensions  installer  loganalytics  network  os  plugin  proc
 [ec2-user@ip-172-31-34-163 agent]$ 
 
 ```
+
+### having your own UI app to monitor details 
+
+```
+sudo cp -rf /var/www/html/webapp1/ /var/www/html/ashuuiapp1
+
+```
