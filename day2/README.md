@@ -71,4 +71,34 @@ CMS Verification successful
 ```
 
 
+### Understanding Notebook in dynatrace platform 
 
+<img src="nt1.png">
+
+
+### Understanding process & container Monitoring analogy
+
+<img src="nt2.png">
+
+## Container runtime engines 
+
+
+<img src="nt3.png">
+
+### Creating a basic container for future microservices detection 
+
+```
+root@ip-172-31-34-94 ~]# docker run -itd --name ashucx1  alpine ping localhost 
+Unable to find image 'alpine:latest' locally
+latest: Pulling from library/alpine
+9824c27679d3: Pull complete 
+Digest: sha256:4bcff63911fcb4448bd4fdacec207030997caf25e9bea4045fa6c8c44de311d1
+Status: Downloaded newer image for alpine:latest
+26e85d0e70a33921712486d67fd01cf992e42abf874fe529f26bdaaeb4b04ccb
+[root@ip-172-31-34-94 ~]# 
+[root@ip-172-31-34-94 ~]# docker ps
+CONTAINER ID   IMAGE     COMMAND            CREATED         STATUS         PORTS     NAMES
+26e85d0e70a3   alpine    "ping localhost"   3 seconds ago   Up 2 seconds             ashucx1
+[root@ip-172-31-34-94 ~]# 
+
+```
