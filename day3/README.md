@@ -45,3 +45,13 @@ fa2044d1d92a   dockerashu/ashubmoweb:bmov50642bcb9c117c19d94593e853ec2155dab3fff
 
  ## to access your container app 
  http://43.205.253.156:portnumber
+
+
+ ### Understanding Db monitoring in dynatrace 
+
+ <img src="db1.png">
+
+ ### active gate info 
+
+ <img src="db2.png">
+
