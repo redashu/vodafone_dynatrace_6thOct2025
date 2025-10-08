@@ -1,1 +1,8 @@
-# vodafone_dynatrace_6thOct2025
+### Container based process monitoring 
+
+<img src="c1.png">
+
+### more detailed understanding of container monitoring
+
+<img src="c2.png">
+
