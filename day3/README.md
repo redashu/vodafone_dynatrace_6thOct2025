@@ -15,6 +15,8 @@ CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 [root@ip-172-31-34-94 ~]# 
 
 [root@ip-172-31-34-94 ~]# docker run -itd --name ashuapp1 --restart always -p 1234:80 dockerashu/ashubmoweb:bmov50642bcb9c117c19d94593e853ec2155dab3fff8
+
+
 Unable to find image 'dockerashu/ashubmoweb:bmov50642bcb9c117c19d94593e853ec2155dab3fff8' locally
 bmov50642bcb9c117c19d94593e853ec2155dab3fff8: Pulling from dockerashu/ashubmoweb
 09f376ebb190: Pull complete 
