@@ -5,3 +5,7 @@
 ### Pricing understanding for Dynatrace 
 
 [click](https://www.dynatrace.com/pricing/rate-card/)
+
+### Devis AI copilot 
+
+[click](https://docs.dynatrace.com/docs/discover-dynatrace/platform/davis-ai/copilot)
