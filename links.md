@@ -15,3 +15,7 @@
 
 [click](https://docs.dynatrace.com/docs/observe/digital-experience/rum-concepts/scores-and-ratings/apdex-ratings)
 
+### dynatrace with aws integration 
+
+[click](https://docs.dynatrace.com/docs/ingest-from/amazon-web-services/integrate-with-aws/cloudwatch-metrics#create-role-dt)
+
