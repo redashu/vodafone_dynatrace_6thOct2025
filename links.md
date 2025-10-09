@@ -9,3 +9,9 @@
 ### Devis AI copilot 
 
 [click](https://docs.dynatrace.com/docs/discover-dynatrace/platform/davis-ai/copilot)
+
+
+### for app performance analysis -- apdex rating index
+
+[click](https://docs.dynatrace.com/docs/observe/digital-experience/rum-concepts/scores-and-ratings/apdex-ratings)
+
