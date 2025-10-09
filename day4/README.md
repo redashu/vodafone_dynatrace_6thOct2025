@@ -7,3 +7,7 @@
 ### Intro to devis ai Copilot 
 
 <img src="ai1.png">
+
+## starting data visualization 
+
+<img src="vi1.png">
