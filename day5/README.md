@@ -7,3 +7,7 @@
 ### k8s and dynatrace understanding 
 
 <img src="rev2.png">
+
+### Basic Integration of dynatrace to your aws cloud 
+
+<img src="aws1.png">
