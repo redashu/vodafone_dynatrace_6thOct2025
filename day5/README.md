@@ -43,3 +43,17 @@ k8smoncluster-oneagent-9hf49          1/1     Running   0          168m
 k8smoncluster-oneagent-9qfhz          1/1     Running   0          168m
 
 ```
+
+
+### Deploy a single teir ui microservice app to k8s 
+
+```
+ 9  kubectl  create deployment  ashu-microservice1  --image=nginx --port 80 --replicas=1
+   10  kubectl  get  deploy
+   11  kubectl  get  po
+   12  kubectl  expose  deploy  ashu-microservice1 --type LoadBalancer --port 80 
+   13  kubectl get svc
+   14  kubectl  get  po
+   15  kubectl get svc
+
+```
