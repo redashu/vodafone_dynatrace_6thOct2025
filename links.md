@@ -19,3 +19,8 @@
 
 [click](https://docs.dynatrace.com/docs/ingest-from/amazon-web-services/integrate-with-aws/cloudwatch-metrics#create-role-dt)
 
+
+### dynatrace -operator for k8s -- to monitor / observe microservices based app 
+
+[click](https://github.com/Dynatrace/dynatrace-operator.git)
+
