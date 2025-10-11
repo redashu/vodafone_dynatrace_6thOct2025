@@ -1,6 +1,17 @@
 # vodafone_dynatrace_6thOct2025
 
-### overview of dynatrace OPerator for k8s / ocp based microservice monitoring 
+### Overview of Dynatrace Operator for K8s / OCP Based Microservice Monitoring 
 
-<img src="mon1.png">
+![Monitoring Overview](mon1.png)
 
+## Project 
+
+### Final Hands-on Project
+- Build a complete monitoring workflow:
+    - Deploy agent 
+    - Monitor DB + Application
+    - Enable RUM
+    - Simulate issues
+    - Perform RCA
+    - Create dashboards
+    - Configure alerts
